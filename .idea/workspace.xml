@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="809fe0f6-ae3d-4176-9514-d6d52f9a06b2" name="Changes" comment="создан репрезиторий" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="main" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2pTmFMhvBPERhCqDk57qClmtIdl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="809fe0f6-ae3d-4176-9514-d6d52f9a06b2" name="Changes" comment="" />
+      <created>1732798334579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732798334579</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Мой второй коммит">
+      <option name="closed" value="true" />
+      <created>1732799174859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732799174859</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Мой второй коммит">
+      <option name="closed" value="true" />
+      <created>1732799240104</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732799240104</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Добавлена функция и ее вызов через main">
+      <option name="closed" value="true" />
+      <created>1732799468005</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732799468005</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Добавлен комментарий">
+      <option name="closed" value="true" />
+      <created>1732799620507</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732799620507</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Добавлен комментарий">
+      <option name="closed" value="true" />
+      <created>1732799670307</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732799670307</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Добавлен комментарий 2">
+      <option name="closed" value="true" />
+      <created>1732799702897</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732799702897</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Выгрузка">
+      <option name="closed" value="true" />
+      <created>1732801063984</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732801063984</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Выгрузка">
+      <option name="closed" value="true" />
+      <created>1732801110354</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732801110354</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Выгрузка на GutHub">
+      <option name="closed" value="true" />
+      <created>1732801139653</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732801139653</updated>
+    </task>
+    <task id="LOCAL-00010" summary="печатаем">
+      <option name="closed" value="true" />
+      <created>1732802054304</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732802054304</updated>
+    </task>
+    <task id="LOCAL-00011" summary="создан репрезиторий">
+      <option name="closed" value="true" />
+      <created>1733145196231</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733145196231</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Мой второй коммит" />
+    <MESSAGE value="Добавлена функция и ее вызов через main" />
+    <MESSAGE value="Добавлен комментарий" />
+    <MESSAGE value="Добавлен комментарий 2" />
+    <MESSAGE value="Выгрузка" />
+    <MESSAGE value="Выгрузка на GutHub" />
+    <MESSAGE value="печатаем" />
+    <MESSAGE value="создан репрезиторий" />
+    <option name="LAST_COMMIT_MESSAGE" value="создан репрезиторий" />
+  </component>
+</project>
