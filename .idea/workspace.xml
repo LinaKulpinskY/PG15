@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="809fe0f6-ae3d-4176-9514-d6d52f9a06b2" name="Changes" comment="Создана новая папка 1202">
-      <change afterPath="$PROJECT_DIR$/1205_PyGame1/main.py" afterDir="false" />
+    <list default="true" id="809fe0f6-ae3d-4176-9514-d6d52f9a06b2" name="Changes" comment="Создали рабочую штучку">
+      <change afterPath="$PROJECT_DIR$/1205_PyGame1/main2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1205_PyGame1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/1205_PyGame1/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +157,31 @@
       <option name="project" value="LOCAL" />
       <updated>1733146030524</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Создали окно с размером 800 на 600">
+      <option name="closed" value="true" />
+      <created>1733404130994</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1733404130994</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Создали цикл с ожиданием!!">
+      <option name="closed" value="true" />
+      <created>1733404359279</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1733404359279</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Создали рабочую штучку">
+      <option name="closed" value="true" />
+      <created>1733405781485</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1733405781485</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +217,20 @@
     <MESSAGE value="печатаем" />
     <MESSAGE value="создан репрезиторий" />
     <MESSAGE value="Создана новая папка 1202" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создана новая папка 1202" />
+    <MESSAGE value="Создали окно с размером 800 на 600" />
+    <MESSAGE value="Создали цикл с ожиданием!!" />
+    <MESSAGE value="Создали рабочую штучку" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создали рабочую штучку" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1205_PyGame1/main2.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
